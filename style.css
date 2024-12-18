@@ -74,7 +74,6 @@ body{
     padding-left: 24px;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     row-gap: 268px;
 }
 
